@@ -6,6 +6,10 @@
 
 i create **scripts, plugins, and small games** for fun.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ady-exe&label=PROFILE+VIEWS&style=flat-square&color=ff5f56" alt="profile views">
+</p>
+
 </div>
 
 ---
