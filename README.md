@@ -1,96 +1,89 @@
 <div align="center">
 
-# Hey, I'm Ady 👋
+# hey, i'm ady 👋
 
-### aka **Ads**
+### aka **ads**
 
-I create **scripts, plugins, and small games** for fun.
+i create **scripts, plugins, and small games** for fun.
 
 </div>
 
 ---
 
-## 📖 Contents
+## 📖 contents
 
-- [Who am I?](#-who-am-i)
-- [What languages do I code in?](#-what-languages-do-i-code-in)
-- [What am I currently working on?](#-what-am-i-currently-working-on)
-- [Do I develop solo or with a team?](#-do-i-develop-solo-or-with-a-team)
-
----
-
-## 👋 Who am I?
-
-I'm **Ady**, and I've been programming for around **5 years**, give or take.
-
-Over that time, I've worked on a mixture of different projects, including:
-
-- 🎮 Small indie games
-- ⛏️ Several Minecraft plugins for both **Java** and **Bedrock**
-- 🖥️ Small personal projects designed to add quality-of-life features to apps I use on my PC
-
-I mainly program because I enjoy creating things, experimenting with ideas, and learning new technologies along the way.
+- [who am i?](#-who-am-i)
+- [what languages do i code in?](#-what-languages-do-i-code-in)
+- [what am i currently working on?](#-what-am-i-currently-working-on)
+- [do i develop solo or with a team?](#-do-i-develop-solo-or-with-a-team)
 
 ---
 
-## 💻 What languages do I code in?
+## 👋 who am i?
 
-I can currently code in:
+i'm **ady**, and i've been programming for around **5 years**, give or take.
+over that time, i've worked on a mixture of different projects, including:
 
-- **Java**
-- **Python**
-- **JavaScript**
-- **C#**
-- **C++**
-- **C**
-- **SQL**
-- **Lua**
-- **PHP**
-- **TypeScript**
-- **GDScript**
+- 🎮 small indie games
+- ⛏️ several minecraft plugins for both **java** and **bedrock**
+- 🖥️ small personal projects designed to add quality-of-life features to apps i use on my pc
 
-I've learned quite a few languages that I haven't ended up using extensively in real projects, but I try to learn as much as I can and broaden what I'm able to work with.
-
-I'm currently learning **HTML** and **CSS**. :)
+i mainly program because i enjoy making stuff, messing around with ideas, and learning new things along the way.
 
 ---
 
-## 🚧 What am I currently working on?
+## 💻 what languages do i code in?
 
-### ScrimmersBridge.jar
+i can currently code in:
 
-I'm currently working on a Minecraft server alongside its custom plugin, **ScrimmersBridge.jar**.
+- **java**
+- **python**
+- **javascript**
+- **c#**
+- **c++**
+- **c**
+- **sql**
+- **lua**
+- **php**
+- **typescript**
+- **gdscript**
 
-[View the repository](YOUR_REPO_LINK_HERE)
-
-> 🔒 **ScrimmersBridge is not open source.**
-
-The project is focused around creating custom Minecraft gameplay systems, plugins, and other features for the server.
-
-### Veyru
-
-I'm also working on **Veyru**, a Discord bot that's completely unrelated to Scrimmers.
-
-It's another project I work on for fun and as a way to experiment with different ideas outside of Minecraft development.
+i've learned quite a few languages that i haven't actually ended up using much in real projects, but i try to learn as much as i can and broaden what i'm able to work with.
+i'm currently learning **html** and **css** :)
 
 ---
 
-## 👥 Do I develop solo or with a team?
+## 🚧 what am i currently working on?
 
-I develop the majority of my projects **solo**.
+### scrimmersbridge.jar
 
-I tend to work well alone and consider myself pretty self-sufficient when it comes to taking an idea and turning it into a working project.
+i'm currently working on a minecraft server alongside its custom plugin, **scrimmersbridge.jar**.
 
-That said, I don't work alone on absolutely everything.
+[view the repository](https://github.com/ady-exe/Scrimmers-Source)
 
-For larger projects such as **Scrimmers**, I've had a few people and small teams help with areas that aren't my main speciality, such as **HTML, CSS, web development**, and other parts of the project.
+> 🔒 **scrimmersbridge is not open source.**
 
-I'm always happy to work with others when a project benefits from having people with different skill sets involved.
+the project is focused around custom minecraft gameplay systems, plugins, and other features for the server.
+
+### veyru
+
+i'm also working on **veyru**, a discord bot that's completely unrelated to scrimmers.
+it's another project i work on for fun and as a way to mess around with different ideas outside of minecraft development.
+
+---
+
+## 👥 do i develop solo or with a team?
+
+i develop the majority of my projects **solo**.
+i tend to work well alone and i'm pretty self-sufficient when it comes to taking an idea and turning it into something that actually works.
+that said, i don't do absolutely everything alone.
+for bigger projects like **scrimmers**, i've had a few people or small teams help me with stuff that isn't really my thing, like **html, css, web development**, and other parts of the project.
+i'm always happy to work with other people when a project benefits from having different skill sets involved.
 
 ---
 
 <div align="center">
 
-### Thanks for checking out my profile! :)
+### thanks for checking out my profile :)
 
 </div>
