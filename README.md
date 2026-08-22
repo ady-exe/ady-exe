@@ -47,6 +47,7 @@ i can currently code in:
 - **C++**
 - **C**
 - **SQL**
+- **Rust**
 - **Lua**
 - **PHP**
 - **TypeScript**
