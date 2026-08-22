@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm ady 👋
+# hey, i'm ady! :p
 
 ### aka **ads**
 
@@ -24,9 +24,9 @@ i create **scripts, plugins, and small games** for fun.
 i'm **ady**, and i've been programming for around **5 years**, give or take.
 over that time, i've worked on a mixture of different projects, including:
 
-- 🎮 small indie games
-- ⛏️ several minecraft plugins for both **java** and **bedrock**
-- 🖥️ small personal projects designed to add quality-of-life features to apps i use on my pc
+- small indie games
+- several minecraft plugins for both **java** and **bedrock**
+- small personal projects designed to add quality-of-life features to apps i use on my pc
 
 i mainly program because i enjoy making stuff, messing around with ideas, and learning new things along the way.
 
@@ -39,14 +39,14 @@ i can currently code in:
 - **java**
 - **python**
 - **javascript**
-- **c#**
-- **c++**
-- **c**
-- **sql**
-- **lua**
-- **php**
-- **typescript**
-- **gdscript**
+- **C#**
+- **C++**
+- **C**
+- **SQL**
+- **Lua**
+- **PHP**
+- **TypeScript**
+- **GDScript**
 
 i've learned quite a few languages that i haven't actually ended up using much in real projects, but i try to learn as much as i can and broaden what i'm able to work with.
 i'm currently learning **html** and **css** :)
@@ -59,13 +59,13 @@ i'm currently learning **html** and **css** :)
 
 i'm currently working on a minecraft server alongside its custom plugin, **scrimmersbridge.jar**.
 
-> 🔒 **scrimmersbridge is not os.**
+> **scrimmersbridge is not os.**
 
 the project is focused around custom minecraft gameplay systems, plugins, and other features for the server.
 
-### veyru
+### Veyru
 
-i'm also working on **veyru**, a discord bot that's completely unrelated to scrimmers.
+i'm also working on **Veyru**, a discord bot that's completely unrelated to scrimmers.
 it's another project i work on for fun and as a way to mess around with different ideas outside of minecraft development.
 
 ---
@@ -73,9 +73,13 @@ it's another project i work on for fun and as a way to mess around with differen
 ## 👥 do i develop solo or with a team?
 
 i develop the majority of my projects **solo**.
+
 i tend to work well alone and i'm pretty self-sufficient when it comes to taking an idea and turning it into something that actually works.
+
 that said, i don't do absolutely everything alone.
+
 for bigger projects like **scrimmers**, i've had a few people or small teams help me with stuff that isn't really my thing, like **html, css, web development**, and other parts of the project.
+
 i'm always happy to work with other people when a project benefits from having different skill sets involved.
 
 ---
