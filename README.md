@@ -59,9 +59,7 @@ i'm currently learning **html** and **css** :)
 
 i'm currently working on a minecraft server alongside its custom plugin, **scrimmersbridge.jar**.
 
-[view the repository](https://github.com/ady-exe/Scrimmers-Source)
-
-> 🔒 **scrimmersbridge is not open source.**
+> 🔒 **scrimmersbridge is not os.**
 
 the project is focused around custom minecraft gameplay systems, plugins, and other features for the server.
 
