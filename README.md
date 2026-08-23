@@ -19,7 +19,6 @@ i create **scripts, plugins, and small games** for fun.
 - [who am i?](#-who-am-i)
 - [what languages do i code in?](#-what-languages-do-i-code-in)
 - [what am i currently working on?](#-what-am-i-currently-working-on)
-- [do i develop solo or with a team?](#-do-i-develop-solo-or-with-a-team)
 
 ---
 
@@ -73,19 +72,6 @@ the project is focused around custom minecraft gameplay systems, plugins, and ot
 i'm also working on **Veyru**, a discord bot that's completely unrelated to scrimmers.
 it's another project i work on for fun and as a way to mess around with different ideas outside of minecraft development.
 
----
-
-## 👥 do i develop solo or with a team?
-
-i develop the majority of my projects **solo**.
-
-i tend to work well alone and i'm pretty self-sufficient when it comes to taking an idea and turning it into something that actually works.
-
-that said, i don't do absolutely everything alone.
-
-for bigger projects like **scrimmers**, i've had a few people or small teams help me with stuff that isn't really my thing, like **html, css, web development**, and other parts of the project.
-
-i'm always happy to work with other people when a project benefits from having different skill sets involved.
 
 ---
 
