@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm ady! :p
+# hey, i'm ady! :)
 
 ### aka **ads**
 
@@ -14,28 +14,16 @@ i create **scripts, plugins, and small games** for fun.
 
 ---
 
-## 👋 who am i?
+# current projects?
 
-i'm **ady**, and i've been programming for around **5 years**, give or take.
-over that time, i've worked on a mixture of different projects.
-i always like trying to programme something ive never tried to programme, so you may see a bunch of differemt types of applications dotted around from time to time, i dont really have a "theme" 
+i am currently working on 3 things.
+- Veyru, a Discord server-tool bot, that has everything from all the major bots, in one.
+- Opti-Client, a light-weight, truly optimized, 1.9+ Minecraft Java client, think of all the major clients but with no bloat, more ease of use, and nothing that no one uses taking up space.
+- Scrimmers.org + Scrimmers.jar, a 1.9+ Minecraft Java server purely focused on the game-mode "The Bridge", using a completely custom .jar plugin for 80+% of the servers features.
 
-## 🚧 what am i currently working on?
+i am bound to start projects every week or so, as of today (23/08/26) i wanna make a my own clients for certain applications that we use almost everyday :D 
 
-### scrimmersbridge.jar
-
-i'm currently working on a minecraft server alongside its custom plugin, **scrimmersbridge.jar**.
-
-> **scrimmersbridge is not os.**
-
-the project is focused around custom minecraft gameplay systems, plugins, and other features for the server.
-
-### Veyru
-
-i'm also working on **Veyru**, a discord bot that's completely unrelated to scrimmers.
-it's another project i work on for fun and as a way to mess around with different ideas outside of minecraft development.
-
-
+stay tuneed to keep up to date :p
 ---
 
 <div align="center">
