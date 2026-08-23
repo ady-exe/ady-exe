@@ -14,13 +14,6 @@ i create **scripts, plugins, and small games** for fun.
 
 ---
 
-## 📖 contents
-
-- [who am i?](#-who-am-i)
-- [what am i currently working on?](#-what-am-i-currently-working-on)
-
----
-
 ## 👋 who am i?
 
 i'm **ady**, and i've been programming for around **5 years**, give or take.
